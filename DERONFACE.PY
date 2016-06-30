@@ -28,7 +28,7 @@ class Deron:
 pygame.init()
 
 # Set the width and height of the screen [width, height]
-size = (327, 410)
+size = (768, 768)
 screen = pygame.display.set_mode(size)
 
 dron_one = pygame.image.load('DERON.png').convert()
